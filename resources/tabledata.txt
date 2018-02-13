@@ -1,0 +1,9 @@
+customer
+colour
+sales
+geography
+price
+clothes
+characteristics
+India
+red
